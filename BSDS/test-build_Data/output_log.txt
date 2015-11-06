@@ -1,0 +1,20 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 680 (ID=0x1180)
+    Vendor:   NVIDIA
+    VRAM:     1985 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: \\banner.main.ad.rit.edu\students\ebg8355\IGMProfile\Desktop\GitHub\GDDII-Game3\BSDS\test-build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading \\banner.main.ad.rit.edu\students\ebg8355\IGMProfile\Desktop\GitHub\GDDII-Game3\BSDS\test-build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: \\banner.main.ad.rit.edu\students\ebg8355\IGMProfile\Desktop\GitHub\GDDII-Game3\BSDS\test-build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading \\banner.main.ad.rit.edu\students\ebg8355\IGMProfile\Desktop\GitHub\GDDII-Game3\BSDS\test-build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: \\banner.main.ad.rit.edu\students\ebg8355\IGMProfile\Desktop\GitHub\GDDII-Game3\BSDS\test-build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading \\banner.main.ad.rit.edu\students\ebg8355\IGMProfile\Desktop\GitHub\GDDII-Game3\BSDS\test-build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  1.054 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: \\banner.main.ad.rit.edu\students\ebg8355\IGMProfile\Desktop\GitHub\GDDII-Game3\BSDS\test-build_Data\Managed\System.Core.dll (this message is harmless)
